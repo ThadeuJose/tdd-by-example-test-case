@@ -1,8 +1,8 @@
 # tdd-by-example-test-case
 Code from TDD by example for the Test Case Example. Programming in Python.
 
-# How to run
+# Technical Debt 
+	
+Put TestCaseTest in test folder
 
-Open cmd in code folder
-
-Run this command 'python TestCase.py test/TestCaseTest.py'
+Save the files in the repository incrementaly like in the book 
